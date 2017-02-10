@@ -1,4 +1,4 @@
-var { add } = require('../Add');
+var { add } = require('../calc');
 
 describe('add()', function() {
     it('should add two numbers', function() {

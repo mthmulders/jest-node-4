@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "devDependencies": {
+        "jest": "18.1.0"
+    },
+    "name": "jest-node-4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mthmulders/jest-node-4.git"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "version": "0.0.1"
+}
